@@ -36,7 +36,7 @@ This repository contains the source code for my personal website. Here, you can 
 ## Getting Started
 
 If you'd like to run this website locally or make contributions, follow the steps below:
-
+```
 ### Installation
 
 1. Clone the repository:
