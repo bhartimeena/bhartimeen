@@ -1,3 +1,4 @@
+/* The code is using the Typed.js library to create a typing effect on the home page. */
 // print the diff tring on the home page using this javascript code
 
 var typed = new Typed(".text", {
